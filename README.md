@@ -1,2 +1,2 @@
 # AFFnet
-This project is for paper "Attentional Feature Fusion Network for Monocular Depth Estimation".
+This project is for paper "Diverse Attentional Feature Fusion Network for Monocular Depth Estimation".
